@@ -1,0 +1,8 @@
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201901_1/iran_201901_1_users_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201901_1/iran_201901_1_tweets_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201906_1/iran_201906_1_users_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201906_1/iran_201906_1_tweets_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201906_2/iran_201906_2_users_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201906_2/iran_201906_2_tweets_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201906_3/iran_201906_3_users_csv_hashed.zip
+https://storage.googleapis.com/twitter-election-integrity/hashed/iran_201906_3/iran_201906_3_tweets_csv_hashed.zip
