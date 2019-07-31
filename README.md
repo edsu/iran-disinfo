@@ -1,6 +1,6 @@
 You should be able to pull down the Twitter data and run the analysis with `make`:
 
-```sh
+```shell
 $ git clone git@github.com:edsu/iran-disinfo.git
 $ cd iran-disinfo
 $ make
