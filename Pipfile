@@ -10,6 +10,7 @@ jupyter = "*"
 pandas = "*"
 pyvis = "*"
 networkx = "*"
+googletrans = "*"
 
 [requires]
 python_version = "3.7"
